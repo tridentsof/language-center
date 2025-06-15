@@ -97,7 +97,7 @@ onUnmounted(() => {
         <span 
           class="text-2xl font-bold transition-colors duration-300"
           :class="isScrolled || isMobileMenuOpen ? 'text-secondary' : 'text-white'"
-        >LanguageCenter</span>
+        >Eduluxe</span>
       </a>
       
       <!-- Desktop Navigation -->
@@ -129,7 +129,7 @@ onUnmounted(() => {
           href="#contact" 
           class="btn btn-primary shadow-soft hover:shadow-hover"
         >
-          <span>Register Now</span>
+          <span>Đăng kí ngay</span>
           <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2" viewBox="0 0 20 20" fill="currentColor">
             <path fill-rule="evenodd" d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
           </svg>
@@ -178,7 +178,7 @@ onUnmounted(() => {
             class="btn btn-primary w-full text-center mt-4 flex items-center justify-center"
             @click="closeMobileMenu"
           >
-            <span>Register Now</span>
+            <span>Đăng kí ngay</span>
             <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 ml-2" viewBox="0 0 20 20" fill="currentColor">
               <path fill-rule="evenodd" d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
             </svg>

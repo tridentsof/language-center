@@ -61,8 +61,8 @@ const values = [
       >
         <h2 class="heading-lg text-secondary-dark mb-6">
           <span class="relative inline-block">
-            About Our
-            <span class="text-primary"> Language Center</span>
+            About
+            <span class="text-primary"> Eduluxe</span>
             <span class="absolute bottom-0 left-0 w-full h-1 bg-primary opacity-30 rounded"></span>
           </span>
         </h2>

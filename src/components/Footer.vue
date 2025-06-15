@@ -13,7 +13,7 @@
               <path d="M20 5L33.6603 28.75H6.33975L20 5Z" />
               <circle cx="20" cy="20" r="7.5" fill="white" />
             </svg>
-            <h2 class="text-2xl font-bold">LanguageCenter</h2>
+            <h2 class="text-2xl font-bold">Eduluxe</h2>
           </div>
           <p class="text-gray-300 mb-6">
             Empowering children with language, life skills, and emotional intelligence for a brighter future.
@@ -107,7 +107,7 @@
               <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-primary mr-3 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
               </svg>
-              <span class="text-gray-300">info@languagecenter.edu.vn</span>
+              <span class="text-gray-300">info@eduluxe.edu.vn</span>
             </li>
             <li class="flex items-start">
               <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-primary mr-3 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -126,7 +126,7 @@
       <div class="border-t border-gray-700 mt-12 pt-8">
         <div class="flex flex-col md:flex-row justify-between items-center">
           <p class="text-gray-400 text-sm mb-4 md:mb-0">
-            &copy; {{ new Date().getFullYear() }} Language Center. All rights reserved.
+            &copy; {{ new Date().getFullYear() }} Eduluxe. All rights reserved.
           </p>
           <div class="flex space-x-6">
             <a href="#" class="text-gray-400 hover:text-primary text-sm transition-colors duration-300">Privacy Policy</a>
