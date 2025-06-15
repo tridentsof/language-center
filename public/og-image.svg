@@ -1,0 +1,22 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#FFF8E1"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="200" cy="150" r="80" fill="#FFC107" opacity="0.7"/>
+  <circle cx="1000" cy="480" r="100" fill="#795548" opacity="0.5"/>
+  <circle cx="600" cy="100" r="50" fill="#D7CCC8" opacity="0.6"/>
+  <circle cx="300" cy="500" r="60" fill="#FFC107" opacity="0.4"/>
+  <circle cx="900" cy="200" r="70" fill="#D7CCC8" opacity="0.5"/>
+  
+  <!-- Logo -->
+  <g transform="translate(500, 250)">
+    <circle cx="0" cy="0" r="120" fill="#FFC107"/>
+    <path d="M-60 -80V80H60V40H-20V-80H-60Z" fill="#795548"/>
+    <circle cx="30" cy="-30" r="20" fill="#FFFFFF"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="600" y="450" font-family="Poppins, sans-serif" font-size="60" font-weight="700" text-anchor="middle" fill="#795548">Language Center</text>
+  <text x="600" y="520" font-family="Nunito, sans-serif" font-size="30" font-weight="400" text-anchor="middle" fill="#333333">Empowering children with language and life skills</text>
+</svg>
