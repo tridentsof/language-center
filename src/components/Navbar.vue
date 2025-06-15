@@ -85,7 +85,7 @@ onUnmounted(() => {
         class="flex items-center group transition-all duration-300 transform hover:scale-105"
         aria-label="Language Center Home"
       >
-        <svg 
+        <!-- <svg 
           class="h-10 w-10 text-primary mr-3 transition-transform duration-500 group-hover:rotate-12" 
           viewBox="0 0 40 40" 
           fill="currentColor" 
@@ -97,7 +97,8 @@ onUnmounted(() => {
         <span 
           class="text-2xl font-bold transition-colors duration-300"
           :class="isScrolled || isMobileMenuOpen ? 'text-secondary' : 'text-white'"
-        >Eduluxe</span>
+        >Eduluxe</span> -->
+        <img id="logo-main" class="w-auto" src="https://satfstateeus.blob.core.windows.net/eduluxe/eduluxe_logo_secondary_tb.png?sp=r&st=2025-06-15T00:59:52Z&se=2026-05-30T08:59:52Z&sv=2024-11-04&sr=b&sig=XaMMRU9AKbi1CwPQ5E7USbSe23mIG5Rum4aKKtc5tGI%3D" alt="">
       </a>
       
       <!-- Desktop Navigation -->
@@ -188,3 +189,9 @@ onUnmounted(() => {
     </div>
   </header>
 </template>
+
+<style scoped>
+  #logo-main {
+    width: 50%
+  }
+</style>
