@@ -98,7 +98,7 @@ onUnmounted(() => {
           class="text-2xl font-bold transition-colors duration-300"
           :class="isScrolled || isMobileMenuOpen ? 'text-secondary' : 'text-white'"
         >Eduluxe</span> -->
-        <img id="logo-main" class="w-auto" src="https://satfstateeus.blob.core.windows.net/eduluxe/eduluxe_logo_secondary_tb.png?sp=r&st=2025-06-15T00:59:52Z&se=2026-05-30T08:59:52Z&sv=2024-11-04&sr=b&sig=XaMMRU9AKbi1CwPQ5E7USbSe23mIG5Rum4aKKtc5tGI%3D" alt="">
+        <img id="logo-main" class="w-auto" src="https://satfstateeus.blob.core.windows.net/eduluxe/eduluxe_logo_secondary_tb.png?sp=r&st=2025-06-17T08:39:08Z&se=2025-06-17T16:39:08Z&sv=2024-11-04&sr=b&sig=oijLgSrAwkfF4cTdHv3K8NCOKuO8q3ICVA7SFYXKOC0%3D" alt="">
       </a>
       
       <!-- Desktop Navigation -->
